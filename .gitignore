@@ -1,0 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Dependency directories
+node_modules/
+
+
+
+dist
+build
