@@ -13,6 +13,6 @@ Desktop.ini
 node_modules/
 
 
-
+.idea/
 dist
 build
